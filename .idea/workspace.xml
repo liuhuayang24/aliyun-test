@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc7e2859-3ee9-4dab-9ec5-e9d1ccad80c3" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/restWebService/ChatController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/restWebService/WebSocketConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/restWebService/WebSocketServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/chat.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-1.0-SNAPSHOT.jar.original" afterPath="" />
+    <list default="true" id="dc7e2859-3ee9-4dab-9ec5-e9d1ccad80c3" name="Default Changelist" comment="111">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/restWebService/Application.class" afterPath="$PROJECT_DIR$/target/classes/restWebService/Application.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/restWebService/MainController.class" afterPath="$PROJECT_DIR$/target/classes/restWebService/MainController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/restWebService/ProxyConfig.class" afterPath="$PROJECT_DIR$/target/classes/restWebService/ProxyConfig.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/restWebService/ResponseBean.class" afterPath="$PROJECT_DIR$/target/classes/restWebService/ResponseBean.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aliyun-test.iml" afterPath="$PROJECT_DIR$/aliyun-test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/restWebService/MainController.java" afterPath="$PROJECT_DIR$/src/main/java/restWebService/MainController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="$PROJECT_DIR$/target/classes/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
@@ -805,12 +792,20 @@
       <workItem from="1572334085091" duration="2113000" />
       <workItem from="1572336678203" duration="1735000" />
       <workItem from="1572521289700" duration="144000" />
-      <workItem from="1572762373269" duration="8663000" />
+      <workItem from="1572762373269" duration="8728000" />
     </task>
+    <task id="LOCAL-00001" summary="111">
+      <created>1572773742574</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572773742574</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12655000" />
+    <option name="totallyTimeSpent" value="12720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -900,6 +895,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
