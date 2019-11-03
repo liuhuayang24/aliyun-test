@@ -16,9 +16,12 @@ public class MainController {
     private final AtomicLong counter = new AtomicLong();
 
     @RequestMapping("greet")
-    private ResponseBean greeting(@RequestParam(value = "name", defaultValue = "World") String name){
+    public ResponseBean greeting(@RequestParam(value = "name", defaultValue = "World") String name){
         return new ResponseBean(counter.incrementAndGet(),
                 String.format(format, name));
     }
+
+
+
 
 }

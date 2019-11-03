@@ -9,10 +9,8 @@
         <module name="aliyun-test" />
       </profile>
     </annotationProcessing>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="aliyun-test" options="-parameters" />
-    </option>
+    <bytecodeTargetLevel>
+      <module name="aliyun-test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
