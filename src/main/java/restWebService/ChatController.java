@@ -15,6 +15,11 @@ import java.io.IOException;
 @Controller
 public class ChatController {
 
+    @RequestMapping("/home")
+    public String home() {
+        return "index.html";
+    }
+
     @RequestMapping("/chat")
     public String chat() {
         return "chat.html";
